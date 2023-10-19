@@ -4,7 +4,8 @@
   "description": "User list",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,9 @@
   "homepage": "https://github.com/marcin-por95/Typescript-User#readme",
   "dependencies": {
     "@types/inquirer": "^9.0.3",
-    "@types/node": "^18.15.11",
+    "@types/node": "^18.15.11"
+  },
+  "devDependencies": {
     "inquirer": "^8.2.4",
     "nodemon": "^2.0.20",
     "ts-node": "^8.10.2"
