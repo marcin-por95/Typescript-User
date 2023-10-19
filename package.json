@@ -19,7 +19,9 @@
   "homepage": "https://github.com/marcin-por95/Typescript-User#readme",
   "dependencies": {
     "@types/inquirer": "^9.0.3",
-    "@types/node": "^18.15.11"
+    "@types/node": "^18.15.11",
+    "consola": "2.15.3",
+    "typescript": "^5.2.2"
   },
   "devDependencies": {
     "inquirer": "^8.2.4",
