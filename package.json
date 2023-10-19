@@ -1,0 +1,26 @@
+{
+  "name": "typescript-userpannel",
+  "version": "1.0.0",
+  "description": "User list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcin-por95/Typescript-User.git"
+  },
+  "author": "Marcin Poreba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcin-por95/Typescript-User/issues"
+  },
+  "homepage": "https://github.com/marcin-por95/Typescript-User#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.15.11",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2"
+  }
+}
